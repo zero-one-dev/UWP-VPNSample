@@ -1,0 +1,8 @@
+namespace VpnDll
+{
+	[default_interface]
+	runtimeclass VpnBackgroundTask : Windows.ApplicationModel.Background.IBackgroundTask
+	{
+		VpnBackgroundTask();
+	}
+}

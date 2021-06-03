@@ -1,0 +1,109 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+/.vs/
+Backup/
+bin/
+obj/
+*.suo
+*/.vs/
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Folders
+.vs/
+Debug/
+Release/
+obj/
+bin/
+ARM/
+x64/
+BundleArtifacts/
+AppPackages/
+
+# MyCustom
+*.tlog
+*.log
+*.idb
+*.pdb
+*.cache
+*.ilk
+*.pri
+*.exp
+*.pfx
+*.winmd
+*.exp
+*.ps1
+*.psd1
+*.appx
+
+*.pyc
+*.user
+*.filters
+Generated Files/
+packages/
